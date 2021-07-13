@@ -36,6 +36,8 @@
 注: OJ 刷题量统计数据来源 NWPU-ACM [查询系统](https://ojhunt.com/statistics)
 
 **榜单每周更新**
+![](https://raw.githubusercontent.com/Joker-lkc/-2020-2021-ACM-ICPC/main/%E5%9B%BE%E7%89%872.png)
+![](https://github.com/Joker-lkc/-2020-2021-ACM-ICPC/blob/main/%E5%9B%BE%E7%89%871.png)
 
  **分队**
 每赛季前 ，按照rating 动态分队， 此后该赛季正式分队，不可调整。
