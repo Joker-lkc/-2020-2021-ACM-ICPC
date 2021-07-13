@@ -31,7 +31,7 @@
  - Virtual Judge:https://vjudge.net
 
 
-**VJudge 和洛谷题数将* 0.5计入。**
+**VJudge 和洛谷题数将* 0.5计入**
 
 注: OJ 刷题量统计数据来源 NWPU-ACM [查询系统](https://ojhunt.com/statistics)
 
