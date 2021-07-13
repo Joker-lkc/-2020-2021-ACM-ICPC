@@ -35,6 +35,8 @@
 
 注: OJ 刷题量统计数据来源 NWPU-ACM [查询系统](https://ojhunt.com/statistics)
 
+**榜单每周更新**
+
  **分队**
 每赛季前 ，按照rating 动态分队， 此后该赛季正式分队，不可调整。
 
