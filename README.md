@@ -6,12 +6,12 @@
 
  - **PS：日常训练若发现有作弊行为达到2次直接踢出**
  - 在线比赛:
-    - **codeforces** 
-    - **atcoder**
+    - **Codeforces** 
+    - **Atcoder**
     - **Nowcoder**
 
- - codeforce rating 计算方法: 最近三场rating值最高分 * 0.8 + 有效场次 * 2（参加场数未达到5场或rating低于800则不计分）
- - atcoder rating 计算方法：最近三场rating值最高分 * 1
+ - Codeforce rating 计算方法: 最近三场rating值最高分 * 0.8 + 有效场次 * 2（参加场数未达到5场或rating低于800则不计分）
+ - Atcoder rating 计算方法：最近三场rating值最高分 * 1 + 有效场次 * 2（参加场数未达到5场或rating低于100则不计分）
  - Nowcode rating 计算方法: 最近三场rating值最高分 * 0.5 + 有效场次 * 2（参加场数未达到5场或rating低于800则不计分）
  - 登记时，一人只能申报一个账号，这意味着参加场数和 Rating 将绑定.[账号统计](https://docs.qq.com/sheet/DYVRwTFhzYWtwZXNX?groupUin=2c50vMuLDKF6Uxpa3LKXwg%3D%3D&tdsourcetag=s_macqq_aiomsg&tab=BB08J2)
  - 刷题: 在各大 OJ 上自行刷题, 每题* 1结算.
